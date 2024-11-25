@@ -13,7 +13,7 @@
 
 <br />
 
-### Demo Screeshots
+### screen shots
 
 ![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
